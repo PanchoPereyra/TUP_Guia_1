@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\empresatransporte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|d:\\repocsharp\\tup_guiauno\\empresa_transporte\\empresatransporte\\empresatransporte\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\empresatransporte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|d:\\repocsharp\\tup_guiauno\\empresa_transporte\\empresatransporte\\empresatransporte\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\empresatransporte\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|d:\\repocsharp\\tup_guiauno\\empresa_transporte\\empresatransporte\\empresatransporte\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16F32A8-8F90-4F93-8633-22C57ECB5CE6}|EmpresaTransporte\\EmpresaTransporte.csproj|solutionrelative:empresatransporte\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 109,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Viaje.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Viaje.cs",
+              "ToolTip": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Viaje.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Viaje.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:24:42.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form3.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Form3.cs",
+              "ToolTip": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EmpresaTransporte\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T13:14:41.552Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form2.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Form2.cs",
+              "ToolTip": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form2.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Form2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:58:18.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form2.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Form2.cs",
+              "ToolTip": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EmpresaTransporte\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:57:21.076Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Form1.cs",
+              "ToolTip": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form1.cs",
+              "RelativeToolTip": "EmpresaTransporte\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:48:42.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form1.cs",
+              "RelativeDocumentMoniker": "EmpresaTransporte\\Form1.cs",
+              "ToolTip": "D:\\repoCSharp\\TUP_GuiaUno\\Empresa_Transporte\\EmpresaTransporte\\EmpresaTransporte\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EmpresaTransporte\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:43:38.774Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

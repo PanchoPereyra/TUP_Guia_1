@@ -1,0 +1,11 @@
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.csproj.AssemblyReference.cache
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.Form1.resources
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.Form2.resources
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.Properties.Resources.resources
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.csproj.GenerateResource.cache
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.csproj.CoreCompileInputs.cache
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\bin\Debug\Concesionario_Moto.exe.config
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\bin\Debug\Concesionario_Moto.exe
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\bin\Debug\Concesionario_Moto.pdb
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.exe
+D:\repoCSharp\TUP_GuiaUno\ConcesionarioDeMoto\Concesionario_Moto\Concesionario_Moto\obj\Debug\Concesionario_Moto.pdb

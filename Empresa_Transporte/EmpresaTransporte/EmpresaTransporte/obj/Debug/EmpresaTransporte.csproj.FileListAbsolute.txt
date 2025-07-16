@@ -1,0 +1,12 @@
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.exe.config
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.exe
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\bin\Debug\EmpresaTransporte.pdb
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.csproj.AssemblyReference.cache
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.Form1.resources
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.Form2.resources
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.Form3.resources
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.Properties.Resources.resources
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.csproj.GenerateResource.cache
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.csproj.CoreCompileInputs.cache
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.exe
+D:\repoCSharp\TUP_GuiaUno\Empresa_Transporte\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
